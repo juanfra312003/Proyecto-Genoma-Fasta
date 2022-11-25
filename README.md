@@ -1,4 +1,4 @@
-# Proyecto Manejo de Estructuras de Datos - Secuencias Geneticas 👨‍💻
+# Proyecto Manejo de Estructuras de Datos - Secuencias Geneticas 💻🧬
 
 Proyecto de manejo y aplicación de estructuras de datos lineales y no lineales sobre un contexto específico, en conjunto con el uso de archivos FASTA dónde se encuentra la base de los mismos para el desarrollo y funcionalidad del proyecto.
 
